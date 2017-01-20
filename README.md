@@ -16,9 +16,9 @@ Please make sure you have accurate profile information on your account first, to
 
 ## Maintaining accurate Profile Information
 
-To remain a member of the organisation, you must maintain your [Profile Information](https://github.com/settings/profile) - this need to be accurate and complete. This includes ensuring the **Name** and **Company** fields are complete and accurate; and ideally having a photo of yourself on the profile too.
+To remain a member of the organisation, you must maintain your [Profile Information](https://github.com/settings/profile) - this need to be accurate and complete. This includes ensuring the **Name** and **Company** fields are both filled in and contrain correct information; and ideally having a photo of yourself on the profile too.
 
-Members who do not have complete profile information will be removed from the Organisation automatically and only restored when the profile is correctly restored.
+Members who do not have complete profile information will be removed from the Organisation automatically and only restored when the profile is correctly maintained.
 
 
 ## Public and Private repositories
