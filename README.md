@@ -28,7 +28,7 @@ If you would like access to the private repositories that we have on GitHub then
 ### Adding to the *People* repository
 The sponsor needs to add you into the file `user.csv` within the `DigitalInnovation/People` repository, create a branch with the request in and generate a new **pull** request. Please check to make sure the user is not already listed, and that the users profile details are accurate and correct. All requests are validated - in particular any requests for new **bot** accounts and those requests that are approved will get an invite email sent to them - they will need to click on the link to join.
 
-If you are a newbie to this proganisation - please make sure you have accurate profile information on your account first, to pass some of the validation checks.
+If you are a newbie to this organisation - please make sure you have accurate profile information on your account first, to pass some of the validation checks.
 
 
 ### Maintaining accurate Profile Information
@@ -40,12 +40,12 @@ Members who do not have complete profile information will be removed from the Or
 ### Enabling 2FA for authentication
 
 We require all accounts to have **2FA** enabled on them to have access. This is typically achieved via an SMS based token to your mobile phone and required when signing into your account or performing certain actions. When you have enabled 2FA the only way to access your account is via using a token alongside your password. If you lose your 2FA device then please make sure you have your `access-codes` downloaded and stored safe otherwise the account is forever lost and not recoverable. To enable 2FA visit 
-[**here**].(https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/)
+[**here**](https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/).
 
 
 ## Repositories
 
-Repositories are whe code artifacts are stored. At M&S we have **lots** of repositories (over 700). Please ensure you use the correct repository for the right project and follow good branch/merge practices as established by your team.
+Repositories are where code artifacts are stored. At M&S we have **lots** of repositories (over 900). Please ensure you use the correct repository for the right project and follow good branch/merge practices as established by your team.
 
 ### Public and Private repositories
 
