@@ -26,7 +26,7 @@ This is the official **GitHub** location for
 If you would like access to the private repositories that we have on GitHub then you need a sponsor (team leader/manager) to invite you into the organisation. The sponsor must be an existing member who will validate and takes full responsibility for you joining. 
 
 ### Adding to the *People* repository
-The sponsor needs to add you into the file `user.csv` within the `DigitalInnovation/People` repository, create a branch with the request in and generate a new **pull** request. Please check to make sure the user is not already listed, and that the users profile details are accurate and correct. All requests are validated - in particular any requests for new **bot** accounts and those requests that are approved will get an invite email sent to them - they will need to click on the link to join.
+The sponsor needs to add you into the file `user.csv` within the [`DigitalInnovation/People`](https://github.com/DigitalInnovation/people) repository, create a branch with the request in and generate a new **pull** request. Please check to make sure the user is not already listed, and that the users profile details are accurate and correct. All requests are validated - in particular any requests for new **bot** accounts and those requests that are approved will get an invite email sent to them - they will need to click on the link to join.
 
 If you are a newbie to this organisation - please make sure you have accurate profile information on your account first, to pass some of the validation checks.
 
