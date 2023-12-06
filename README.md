@@ -12,7 +12,6 @@
         - [Public and Private repositories](#public-and-private-repositories)
         - [Creating Repositories](#creating-repositories)
         - [Team membership](#team-membership)
-    - [Getting help](#getting-help)
 
 <!-- /TOC -->
 
@@ -72,9 +71,4 @@ Ideally they should start with the Business Unit or area they relate to, the pro
 By default everyone has full `Read` permissions across all repositories. To get write/admin permissions you will need to be added to the correct team for a given repository. The person who initially creates the repository is the first administrator for associating teams to that repository. 
 
 There are occasions where repos can end up detached without any owners left. If this happens and you need to update a repo then please ask on slack and we can reassociate the repo/team to a new owner.
-
-
-## Getting help
-
-The best place to ask for help is on [**Slack**](https://teamawesome.slack.com/), and channel `#github`. 
 
